@@ -88,6 +88,7 @@ var people = map[string]*person{
 	"wright":      &person{"The Wright brothers, Orville and Wilbur", "Credited with inventing and building the world's first successful airplane and making the first controlled, powered and sustained heavier-than-air human flight", "https://en.wikipedia.org/wiki/Wright_brothers"},
 	"yalow":       &person{"Rosalyn Sussman Yalow", "American medical physicist, and a co-winner of the 1977 Nobel Prize in Physiology or Medicine for development of the radioimmunoassay technique", "https://en.wikipedia.org/wiki/Rosalyn_Sussman_Yalow"},
 	"yonath":      &person{"Ada Yonath", "Israeli crystallographer, the first woman from the Middle East to win a Nobel prize in the sciences", "https://en.wikipedia.org/wiki/Ada_Yonath"},
+	"payne":       &person{"Cecilia Payne-Gaposchkin", "Astronomer and astrophysicist who, in 1925, proposed in her Ph.D. thesis an explanation for the composition of stars in terms of the relative abundances of hydrogen and helium.", "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"},
 }
 
 func main() {
