@@ -1,6 +1,6 @@
 ## Docker Who
 
-The names of (Docker)[https://github.com/docker/docker]. 
+The names of [Docker](https://github.com/docker/docker).  
 When you create a Docker container, if you did not specify a name yourself,
 Docker will automatically generate a name for you. This generator lives here:
 https://github.com/docker/docker/blob/master/pkg/namesgenerator/names-generator.go
