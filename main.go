@@ -89,6 +89,9 @@ var people = map[string]*person{
 	"yalow":       &person{"Rosalyn Sussman Yalow", "American medical physicist, and a co-winner of the 1977 Nobel Prize in Physiology or Medicine for development of the radioimmunoassay technique", "https://en.wikipedia.org/wiki/Rosalyn_Sussman_Yalow"},
 	"yonath":      &person{"Ada Yonath", "Israeli crystallographer, the first woman from the Middle East to win a Nobel prize in the sciences", "https://en.wikipedia.org/wiki/Ada_Yonath"},
 	"payne":       &person{"Cecilia Payne-Gaposchkin", "Astronomer and astrophysicist who, in 1925, proposed in her Ph.D. thesis an explanation for the composition of stars in terms of the relative abundances of hydrogen and helium.", "https://en.wikipedia.org/wiki/Cecilia_Payne-Gaposchkin"},
+	"bose":        &person{"Satyendra Nath Bose", "Pprovided the foundation for Bose–Einstein statistics and the theory of the Bose–Einstein condensate", "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"},
+	"raman":       &person{"C. V. Raman", "Indian physicist who won the Nobel Prize in 1930 for proposing the Raman effect", "https://en.wikipedia.org/wiki/C._V._Raman"},
+	"ramanujan":   &person{"Srinivasa Ramanujan", "Indian mathematician and autodidact who made extraordinary contributions to mathematical analysis, number theory, infinite series, and continued fractions", "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"},
 }
 
 func main() {
