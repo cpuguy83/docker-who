@@ -25,7 +25,7 @@ var people = map[string]*person{
 	"bartik":        &person{"Jean Bartik", "Born Betty Jean Jennings, was one of the original programmers for the ENIAC computer", "https://en.wikipedia.org/wiki/Jean_Bartik"},
 	"bell":          &person{"Alexander Graham Bell", "Eminent Scottish-born scientist, inventor, engineer and innovator who is credited with inventing the first practical telephone", "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"},
 	"blackwell":     &person{"Elizabeth Blackwell", "American doctor and first American woman to receive a medical degree", "https://en.wikipedia.org/wiki/Elizabeth_Blackwell"},
-	"boh":           &person{"Niels Bohr", "The father of quantum theory", "https://en.wikipedia.org/wiki/Niels_Bohr"},
+	"bohr":          &person{"Niels Bohr", "The father of quantum theory", "https://en.wikipedia.org/wiki/Niels_Bohr"},
 	"brown":         &person{"Emmet Brown", "Invented time travel", "https://en.wikipedia.org/wiki/Emmett_Brown"},
 	"carson":        &person{"Rachel Carson", "American marine biologist and conservationist, her book Silent Spring and other writings are credited with advancing the global environmental movement", "https://en.wikipedia.org/wiki/Rachel_Carson"},
 	"colden":        &person{"Jane Colden", "American botanist widely considered the first female American botanist", "https://en.wikipedia.org/wiki/Jane_Colden"},
@@ -95,6 +95,12 @@ var people = map[string]*person{
 	"chandrasekhar": &person{"Subrahmanyan Chandrasekhar", "Astrophysicist known for his mathematical theory on different stages and evolution in structures of the stars. He has won nobel prize for physics", "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"},
 	"khorana":       &person{" HarGobind Khorana", "Indian-American biochemist who shared the 1968 Nobel Prize for Physiology", "https://en.wikipedia.org/wiki/Har_Gobind_Khorana"},
 	"saha":          &person{"Meghnad Saha", "Indian astrophysicist best known for his development of the Saha equation, used to describe chemical and physical conditions in stars", "https://en.wikipedia.org/wiki/Meghnad_Saha"},
+	"aryabhata":     &person{"Aryabhata", "Ancient Indian mathematician-astronomer during 476-550 CE", "https://en.wikipedia.org/wiki/Aryabhata"},
+	"bhaskara":      &person{"Bhaskara II", "Ancient Indian mathematician-astronomer whose work on calculus predates Newton and Leibniz by over half a millenium", "https://en.wikipedia.org/wiki/Bh%C4%81skara_II#Calculus"},
+	"brahmagupta":   &person{"Brahmagupta", "Ancient Indian mathematician during 598-670 CE who gave rules to compute with zero", "https://en.wikipedia.org/wiki/Brahmagupta#Zero"},
+	"mahavira":      &person{"Mahavira", "Ancient Indian mathematician during 9th century AD who discovered basic algebraic identities", "https://en.wikipedia.org/wiki/Mah%C4%81v%C4%ABra_(mathematician)"},
+	"panini":        &person{"Panini", "Ancient Indian linguist and grammarian from 4th century CE who worked on the world's first formal system", "https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini#Comparison_with_modern_formal_systems"},
+	"varahamihira":  &person{"Varahamihira", "Ancient Indian mathematician who discovered trigonometric formulae during 505-587 CE", "https://en.wikipedia.org/wiki/Var%C4%81hamihira#Contributions"},
 }
 
 func main() {
