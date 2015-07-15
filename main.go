@@ -101,6 +101,7 @@ var people = map[string]*person{
 	"mahavira":      &person{"Mahavira", "Ancient Indian mathematician during 9th century AD who discovered basic algebraic identities", "https://en.wikipedia.org/wiki/Mah%C4%81v%C4%ABra_(mathematician)"},
 	"panini":        &person{"Panini", "Ancient Indian linguist and grammarian from 4th century CE who worked on the world's first formal system", "https://en.wikipedia.org/wiki/P%C4%81%E1%B9%87ini#Comparison_with_modern_formal_systems"},
 	"varahamihira":  &person{"Varahamihira", "Ancient Indian mathematician who discovered trigonometric formulae during 505-587 CE", "https://en.wikipedia.org/wiki/Var%C4%81hamihira#Contributions"},
+	"visvesvaraya":  &person{"Sir Mokshagundam Visvesvaraya", "Notable Indian engineer who is a recipient of the Indian Republic's highest honour, the Bharat Ratna, in 1955. On his birthday, 15 September is celebrated as Engineer's Day in India in his memory", "https://en.wikipedia.org/wiki/Visvesvaraya"},
 }
 
 func main() {
